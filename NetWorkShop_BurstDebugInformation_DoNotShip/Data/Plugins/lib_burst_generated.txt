@@ -12,6 +12,7 @@ Library: D:\GIT REPOS\Tidal-Hunters\Temp\BurstOutput\Data\Plugins\lib_burst_gene
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GIT REPOS\Tidal-Hunters\Temp\Burst
+--debug=Full
 --enable-frame-info-registration
 --key-folder=D:/Unity/6000.2.7f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=D:\GIT REPOS\Tidal-Hunters\Library\Burst
@@ -33,6 +34,7 @@ Library: D:\GIT REPOS\Tidal-Hunters\Temp\BurstOutput\Data\Plugins\lib_burst_gene
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GIT REPOS\Tidal-Hunters\Temp\Burst
+--debug=Full
 --enable-frame-info-registration
 --key-folder=D:/Unity/6000.2.7f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=D:\GIT REPOS\Tidal-Hunters\Library\Burst
@@ -52,6 +54,7 @@ Library: D:\GIT REPOS\Tidal-Hunters\Temp\BurstOutput\Data\Plugins\lib_burst_gene
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GIT REPOS\Tidal-Hunters\Temp\Burst
+--debug=Full
 --enable-frame-info-registration
 --key-folder=D:/Unity/6000.2.7f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=D:\GIT REPOS\Tidal-Hunters\Library\Burst
@@ -163,6 +166,7 @@ Library: D:\GIT REPOS\Tidal-Hunters\Temp\BurstOutput\Data\Plugins\lib_burst_gene
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GIT REPOS\Tidal-Hunters\Temp\Burst
+--debug=Full
 --enable-frame-info-registration
 --key-folder=D:/Unity/6000.2.7f2/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=D:\GIT REPOS\Tidal-Hunters\Library\Burst
